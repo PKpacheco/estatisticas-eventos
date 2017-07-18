@@ -29,13 +29,15 @@ Local | Número de eventos | Número de Participantes
 ###Distrito Federal
 ###Goiás
 ###Mato Grosso
-###Mato Grosso do Sul
+###Mato Grosso do Sul -->
 
 
 ##Nordeste
 
 ###Alagoas
-###Bahia
+- Maceió | 2 |
+
+<!-- ###Bahia
 ###Ceará
 ###Maranhão
 ###Paraíba

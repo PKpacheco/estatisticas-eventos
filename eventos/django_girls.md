@@ -39,12 +39,14 @@ Local | Número de DG | Número de Participantes
 ###Goiás
 ###Mato Grosso
 ###Mato Grosso do Sul
-
+ -->
 
 ##Nordeste
 
 ###Alagoas
-###Bahia
+- Maceió | 3 |
+
+<!-- ###Bahia
 ###Ceará
 ###Maranhão
 ###Paraíba
@@ -58,6 +60,5 @@ Local | Número de DG | Número de Participantes
 
 ###Paraná
 ###Rio Grande do Sul
-###Santa Catarina
+###Santa Catarina -->
 
- -->
