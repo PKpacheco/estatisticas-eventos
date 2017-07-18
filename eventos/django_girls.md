@@ -4,9 +4,9 @@ Django Girls
 ## Sudeste
 
 ###Rio de Janeiro
-Local | Número de DG | Número de Participantes
+Local | Número de DG | Número de Participantes | Número de Submissões
 
---- | --- | --- 
+--- | --- | --- | ---
 
 - Rio de Janeiro | 
 - Niterói | 2 | 
