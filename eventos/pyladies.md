@@ -1,23 +1,16 @@
-#Pyladies
+Pyladies
+================
 
 ## Sudeste
 
 ###Rio de Janeiro
-Local | Quantidade de eventos | Média de Participantes 
- --- | --- | --- 
-- Rio de Janeiro | 
+<!-- Local | Número de eventos | Número de Participantes
+
+--- | --- | ---  -->
 
 ###São Paulo
-Local | Quantidade de eventos | Média de Participantes 
- --- | --- | --- 
-
 ###Minas Gerais
-Local | Quantidade de eventos | Média de Participantes 
- --- | --- | --- 
-
 ###Espírito Santo
-Local | Quantidade de eventos | Média de Participantes 
- --- | --- | --- 
 
 
 ##Norte
@@ -27,6 +20,8 @@ Local | Quantidade de eventos | Média de Participantes
 ###Amazonas
 ###Pará
 ###Rondônia
+###Roraima
+###Tocantins
 
 
 ##Centro-oeste
@@ -55,5 +50,4 @@ Local | Quantidade de eventos | Média de Participantes
 ###Paraná
 ###Rio Grande do Sul
 ###Santa Catarina
-###Roraima
-###Tocantins
+

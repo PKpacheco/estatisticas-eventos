@@ -1,25 +1,24 @@
-#Django Girls
+Django Girls
+================
 
 ## Sudeste
 
 ###Rio de Janeiro
-Local | Número de DG | Número de Participantes 
- --- | --- | --- 
+Local | Número de DG | Número de Participantes
+
+--- | --- | --- 
+
 - Rio de Janeiro | 
-- Niterói | 2 | 60
+- Niterói | 2 | 
 - Caxias | 
 
 ###São Paulo
-Local | Número de DG | Número de Participantes 
- --- | --- | --- 
+<!-- Local | Número de DG | Número de Participantes
+
+--- | --- | ---  -->
 
 ###Minas Gerais
-Local | Número de DG | Número de Participantes 
- --- | --- | --- 
-
 ###Espírito Santo
-Local | Número de DG | Número de Participantes 
- --- | --- | --- 
 
 
 ##Norte
@@ -29,6 +28,8 @@ Local | Número de DG | Número de Participantes
 ###Amazonas
 ###Pará
 ###Rondônia
+###Roraima
+###Tocantins
 
 
 ##Centro-oeste
@@ -57,5 +58,4 @@ Local | Número de DG | Número de Participantes
 ###Paraná
 ###Rio Grande do Sul
 ###Santa Catarina
-###Roraima
-###Tocantins
+
