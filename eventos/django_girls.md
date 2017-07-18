@@ -13,12 +13,12 @@ Caxias |
 
 ### São Paulo
 
-<!-- ###São Paulo
 Local | Número de DG | Número de Participantes
-
 --- | --- | --- 
+São Paulo | 1 |
+Ribeirão Preto | 1 | 32
 
-
+<!--
 ## Norte
 
 ### Acre
