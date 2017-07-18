@@ -42,10 +42,9 @@ Ribeirão Preto | 1 | 32
 
 ### Alagoas
 
-##Nordeste
-
-###Alagoas
-- Maceió | 3 |
+Local | Número de DG | Número de Participantes
+--- | --- | ---
+Maceió | 3 |
 
 <!-- ###Bahia
 ###Ceará
