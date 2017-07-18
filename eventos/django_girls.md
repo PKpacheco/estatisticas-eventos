@@ -3,43 +3,44 @@ Django Girls
 
 ## Sudeste
 
-###Rio de Janeiro
+### Rio de Janeiro
+
 Local | Número de DG | Número de Participantes | Número de Submissões
-
 --- | --- | --- | ---
+Rio de Janeiro | 
+Niterói | 2 | 
+Caxias | 
 
-- Rio de Janeiro | 
-- Niterói | 2 | 
-- Caxias | 
+### São Paulo
 
 <!-- ###São Paulo
 Local | Número de DG | Número de Participantes
 
 --- | --- | --- 
 
-###Minas Gerais
 
-###Espírito Santo
+## Norte
 
-
-##Norte
-
-###Acre
-###Amapá
-###Amazonas
-###Pará
-###Rondônia
-###Roraima
-###Tocantins
+### Acre
+### Amapá
+### Amazonas
+### Pará
+### Rondônia
+### Roraima
+### Tocantins
 
 
-##Centro-oeste
+## Centro-oeste
 
-###Distrito Federal
-###Goiás
-###Mato Grosso
-###Mato Grosso do Sul
- -->
+### Distrito Federal
+### Goiás
+### Mato Grosso
+### Mato Grosso do Sul
+-->
+
+## Nordeste
+
+### Alagoas
 
 ##Nordeste
 
