@@ -1,5 +1,5 @@
 # Estastíticas de Django Girls e Pyladies no Brasil
-Repositório Estastíticas de Django Girls e Pyladies no Brasil
+Repositório Estastíticas de Django Girls, Pyladies e Grupos/Encontros de Python no Brasil
 ==============================================
 Esse repositório destina-se a listar todos os workshops Django Girls e todos os eventos Pyladies realizados no Brasil no ano de 2017.
 
