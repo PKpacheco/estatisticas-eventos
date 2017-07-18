@@ -1,12 +1,12 @@
 Encontros de Python
 ================
 
-## Sudeste
+<!-- ## Sudeste
 
 ###Rio de Janeiro
-<!-- Grupo |Local | Número de eventos | Número de Participantes
+Grupo |Local | Número de eventos | Número de Participantes
 
---- | --- | ---  -->
+--- | --- | --- 
 
 ###São Paulo
 ###Minas Gerais
@@ -51,3 +51,4 @@ Encontros de Python
 ###Rio Grande do Sul
 ###Santa Catarina
 
+ -->

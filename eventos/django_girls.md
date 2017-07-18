@@ -12,12 +12,13 @@ Local | Número de DG | Número de Participantes
 - Niterói | 2 | 
 - Caxias | 
 
-###São Paulo
-<!-- Local | Número de DG | Número de Participantes
+<!-- ###São Paulo
+Local | Número de DG | Número de Participantes
 
---- | --- | ---  -->
+--- | --- | --- 
 
 ###Minas Gerais
+
 ###Espírito Santo
 
 
@@ -59,3 +60,4 @@ Local | Número de DG | Número de Participantes
 ###Rio Grande do Sul
 ###Santa Catarina
 
+ -->

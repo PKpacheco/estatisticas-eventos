@@ -1,12 +1,12 @@
 Pyladies
 ================
-
+<!-- 
 ## Sudeste
 
 ###Rio de Janeiro
-<!-- Local | Número de eventos | Número de Participantes
+Local | Número de eventos | Número de Participantes
 
---- | --- | ---  -->
+--- | --- | --- 
 
 ###São Paulo
 ###Minas Gerais
@@ -51,3 +51,4 @@ Pyladies
 ###Rio Grande do Sul
 ###Santa Catarina
 
+ -->
