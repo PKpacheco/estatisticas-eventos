@@ -5,18 +5,18 @@ Django Girls
 
 ### Rio de Janeiro
 
-Local | Número de DG | Número de Participantes | Número de Submissões
---- | --- | --- | ---
+Cidade | Local do Evento | Número de DG | Número de Participantes | Número de Submissões | Data  
+--- | --- | ---| --- | --- | ---
 Rio de Janeiro | 
-Niterói | 2 | 
+Niterói |  | 2
 Caxias | 
 
 ### São Paulo
 
-Local | Número de DG | Número de Participantes
---- | --- | --- 
-São Paulo | 1 |
-Ribeirão Preto | 1 | 32
+Cidade | Local do Evento | Número de DG | Número de Participantes | Data
+--- | --- | --- | --- | ---
+São Paulo | | 1 |
+Ribeirão Preto | | 1 | 32
 
 <!--
 ## Norte
@@ -42,9 +42,15 @@ Ribeirão Preto | 1 | 32
 
 ### Alagoas
 
-Local | Número de DG | Número de Participantes
---- | --- | ---
-Maceió | 3 |
+Cidade | Local do Evento | Número de DG | Número de Participantes | Data
+--- | --- | --- | -- | --
+Maceió | | 3 |
+
+
+### Piauí
+Cidade | Local do Evento | Número de DG | Número de Participantes | Data
+--- | --- | --- | -- | --
+Teresina |IFPI| | | 26/08/2017
 
 <!-- ###Bahia
 ###Ceará
