@@ -6,3 +6,7 @@ Esse repositório destina-se a listar todos os workshops Django Girls e todos os
 PS.: Caso você queira contribuir com alguma comunidade que não encontra-se na lista ou alterar alguma, por favor envie a correção. <3 
 
 
+### Eventos
+- [Django Girls](eventos/django_girls.md)
+- [Grupos Python](eventos/grupos-python.md)
+- [PyLadies](eventos/pyladies.md)
