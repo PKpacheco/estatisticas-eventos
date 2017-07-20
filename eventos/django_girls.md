@@ -45,7 +45,6 @@ Belo Horizonte | | |
 ### Mato Grosso
 ### Mato Grosso do Sul -->
 
-
 ## Nordeste
 
 ### Alagoas
@@ -59,9 +58,9 @@ Arapiraca | | |
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
 --- | --- | --- | ---
-Teresina | | | 
+Teresina | | |
 
-###Bahia
+### Bahia
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
 --- | --- | --- | ---
@@ -69,7 +68,7 @@ Salvador | | |
 
 <!-- ###Ceará
  -->
-###Maranhão
+### Maranhão
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
 --- | --- | --- | ---
@@ -77,13 +76,13 @@ São Luís | | |
 
 <!-- ###Paraíba
  -->
-###Pernambuco
+### Pernambuco
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
 --- | --- | --- | ---
 Recife | | |
 
-###Rio Grande do Norte
+### Rio Grande do Norte
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
 --- | --- | --- | ---
@@ -91,16 +90,16 @@ Natal | | |
 
 <!-- ###Sergipe
  -->
-##Sul
+## Sul
 
-###Paraná
+### Paraná
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
 --- | --- | --- | ---
 Curitiba | | |
 Maringá | | |
 
-###Rio Grande do Sul
+### Rio Grande do Sul
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
 --- | --- | --- | ---
@@ -109,7 +108,7 @@ São Leopoldo | | |
 Novo Hamburgo | | |
 Porto Alegre | | |
 
-###Santa Catarina
+### Santa Catarina
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
 --- | --- | --- | ---
