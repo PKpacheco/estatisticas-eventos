@@ -6,29 +6,28 @@ Django Girls
 ### Rio de Janeiro
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
---- | --- | ---| --- | --- | ---
-Rio de Janeiro | 
+--- | --- | --- | --- 
+Rio de Janeiro | | |
 Niterói |  | 2
-Caxias | 
 
 ### São Paulo
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 São Paulo | | 1 |
-Ribeirão Preto | | 1 | 32
-São José dos Campos | | | | 
-Campinas
+Ribeirão Preto  | 1 | 32 |
+São José dos Campos | | | 
+Campinas | | |
 
 
 ### Minas Gerais
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
---- | --- | --- | --- | ---
-Belo Horizonte |  |
+--- | --- | --- | ---
+Belo Horizonte | | |
 
 
-## Norte
+<!-- ## Norte
 
 ### Acre
 ### Amapá
@@ -44,7 +43,7 @@ Belo Horizonte |  |
 ### Distrito Federal
 ### Goiás
 ### Mato Grosso
-### Mato Grosso do Sul
+### Mato Grosso do Sul -->
 
 
 ## Nordeste
@@ -52,62 +51,66 @@ Belo Horizonte |  |
 ### Alagoas
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
---- | --- | --- | -- | --
+--- | --- | --- | ---
 Maceió | | 3 |
-Arapiraca
+Arapiraca | | |
 
 ### Piauí
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
---- | --- | --- | -- | --
-Teresina |IFPI| | | 26/08/2017
+--- | --- | --- | ---
+Teresina | | | 
 
 ###Bahia
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
---- | --- | --- | --- | ---
-Salvador | |  |
+--- | --- | --- | ---
+Salvador | | |
 
 ###Ceará
+
 ###Maranhão
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 São Luís | | |
+
 ###Paraíba
 
 ###Pernambuco
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 Recife | | |
 
-###Piauí
-Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
---- | --- | --- | --- | ---
-Teresina | | |
 ###Rio Grande do Norte
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
---- | --- | --- | --- | ---
+--- | --- | --- | ---
 Natal | | |
 
 ###Sergipe
 
-
 ##Sul
 
 ###Paraná
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
---- | --- | --- | -- | --
+--- | --- | --- | ---
 Curitiba | | |
-Maringá
+Maringá | | |
 
 ###Rio Grande do Sul
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
---- | --- | --- | -- | --
+--- | --- | --- | ---
 Caxias do Sul | | |
-São Leopoldo 
-Novo Hamburgo
-Porto Alegre
+São Leopoldo | | |
+Novo Hamburgo | | |
+Porto Alegre | | |
 
 ###Santa Catarina
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
---- | --- | --- | -- | --
+--- | --- | --- | ---
 Florianópolis | | |
 
