@@ -8,13 +8,13 @@ Django Girls
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
 --- | --- | --- | --- 
 Rio de Janeiro | | |
-Niterói |  | 2
+Niterói | 2 | |
 
 ### São Paulo
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
 --- | --- | --- | ---
-São Paulo | | 1 |
+São Paulo | 1 |  |
 Ribeirão Preto  | 1 | 32 |
 São José dos Campos | | | 
 Campinas | | |
@@ -52,7 +52,7 @@ Belo Horizonte | | |
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões
 --- | --- | --- | ---
-Maceió | | 3 |
+Maceió | | |
 Arapiraca | | |
 
 ### Piauí
@@ -67,16 +67,16 @@ Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Subm
 --- | --- | --- | ---
 Salvador | | |
 
-###Ceará
-
+<!-- ###Ceará
+ -->
 ###Maranhão
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
 --- | --- | --- | ---
 São Luís | | |
 
-###Paraíba
-
+<!-- ###Paraíba
+ -->
 ###Pernambuco
 
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
@@ -84,12 +84,13 @@ Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Subm
 Recife | | |
 
 ###Rio Grande do Norte
+
 Local do Evento | Qtd de DG em 2017 | Número de Participantes | Número de Submissões 
 --- | --- | --- | ---
 Natal | | |
 
-###Sergipe
-
+<!-- ###Sergipe
+ -->
 ##Sul
 
 ###Paraná
