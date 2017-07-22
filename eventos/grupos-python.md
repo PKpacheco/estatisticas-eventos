@@ -1,6 +1,15 @@
 Encontros de Python
 ================
 
+
+## São Paulo
+
+
+Grupo | Local | Número de eventos | Número de Participantes
+--- | --- | --- | ---
+Grupy-RP | Ribeirão Preto | 7 (entre dojos e palestras) | 12.5
+
+
 <!-- ## Sudeste
 
 ###Rio de Janeiro
@@ -8,7 +17,6 @@ Grupo |Local | Número de eventos | Número de Participantes
 
 --- | --- | --- 
 
-###São Paulo
 ###Minas Gerais
 ###Espírito Santo
 
